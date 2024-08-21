@@ -174,7 +174,7 @@ button:hover {
   background-color: #36ffb2;
   width: 0;
   transition: width 0.5s;
-
+}
 #progressText {
      margin-top: 15px;
   font-weight: 600;
